@@ -19,4 +19,7 @@
 
 - get value from input
 
-- insert input value by using innerText 
+- insert input value by using innerText
+
+
+![image](https://user-images.githubusercontent.com/69693889/164315624-267056ab-b24d-4ba0-94c8-99f408f92345.png)
